@@ -1,0 +1,72 @@
+
+# =========================
+# Python virtual environments
+# =========================
+.venv/
+.venv-*/
+venv/
+venv-*/
+env/
+env-*/
+
+# =========================
+# Model checkpoints and weights
+# =========================
+Models/Pair_*/models/
+
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.gguf
+*.onnx
+*.h5
+*.bin
+
+# =========================
+# Datasets
+# =========================
+Models/Pair_*/datasets/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# Jupyter Notebook cache
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Temporary files and logs
+# =========================
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Hugging Face cache
+# =========================
+.cache/
+huggingface/
+
+
+# Pair 1 - Ignore generated images, keep metrics
+Models/Pair_01/results/BrushNet/*
+!Models/Pair_01/results/BrushNet/metrics.csv
+
+Models/Pair_01/results/PowerPaint/*
+!Models/Pair_01/results/PowerPaint/metrics.csv
