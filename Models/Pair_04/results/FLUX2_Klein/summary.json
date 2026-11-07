@@ -1,0 +1,16 @@
+{
+  "model": "FLUX.2-klein-4B-SDNQ",
+  "checkpoint": "C:\\Users\\royay\\OneDrive\\Desktop\\COMP8410\\Assignment 1\\COMP8410_A1_49128299\\Models\\Pair_04\\models\\FLUX2-klein-4B",
+  "num_prompts": 30,
+  "successful_images": 30,
+  "failed_images": 0,
+  "mean_generation_seconds": 4.837725680001313,
+  "median_generation_seconds": 4.53430605000176,
+  "height": 512,
+  "width": 512,
+  "steps": 4,
+  "guidance_scale": 1.0,
+  "base_seed": 42,
+  "pytorch_version": "2.6.0+cu124",
+  "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU"
+}

@@ -1,0 +1,3 @@
+Model,Successful,Failed,Mean seconds,Median seconds,Steps,Guidance,Resolution
+Z-Image-Turbo,30,0,10.966583546667243,10.677873850014294,9,0.0,512 × 512
+FLUX.2 klein,30,0,4.837725680001313,4.53430605000176,4,1.0,512 × 512

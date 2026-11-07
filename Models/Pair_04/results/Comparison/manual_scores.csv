@@ -1,0 +1,61 @@
+prompt_id,item_id,model,image_path,prompt_adherence,visual_quality,product_accuracy,advertising_suitability,rating_source
+P001,B07QFRCVFD,Z-Image-Turbo,results/Z_Image_Turbo/images/P001.png,5,5,4,5,User reviewed
+P001,B07QFRCVFD,FLUX.2 klein,results/FLUX2_Klein/images/P001.png,5,5,4,5,User reviewed
+P002,B07R79WQZB,Z-Image-Turbo,results/Z_Image_Turbo/images/P002.png,5,5,5,5,User reviewed
+P002,B07R79WQZB,FLUX.2 klein,results/FLUX2_Klein/images/P002.png,5,5,5,5,User reviewed
+P003,B07NP6BV1H,Z-Image-Turbo,results/Z_Image_Turbo/images/P003.png,2,5,2,2,User reviewed
+P003,B07NP6BV1H,FLUX.2 klein,results/FLUX2_Klein/images/P003.png,5,4,5,5,User reviewed
+P004,B089LF9ND2,Z-Image-Turbo,results/Z_Image_Turbo/images/P004.png,5,5,5,5,User reviewed
+P004,B089LF9ND2,FLUX.2 klein,results/FLUX2_Klein/images/P004.png,3,5,3,3,User reviewed
+P005,B07CN7B2H1,Z-Image-Turbo,results/Z_Image_Turbo/images/P005.png,4,4,4,4,User reviewed
+P005,B07CN7B2H1,FLUX.2 klein,results/FLUX2_Klein/images/P005.png,1,4,1,1,User reviewed
+P006,B07RBMRPB1,Z-Image-Turbo,results/Z_Image_Turbo/images/P006.png,4,4,4,4,User reviewed
+P006,B07RBMRPB1,FLUX.2 klein,results/FLUX2_Klein/images/P006.png,5,5,5,5,User reviewed
+P007,B07PGJR7MG,Z-Image-Turbo,results/Z_Image_Turbo/images/P007.png,2,4,2,2,User reviewed
+P007,B07PGJR7MG,FLUX.2 klein,results/FLUX2_Klein/images/P007.png,2,4,2,2,User reviewed
+P008,B085D1TMQY,Z-Image-Turbo,results/Z_Image_Turbo/images/P008.png,5,4,4,4,User reviewed
+P008,B085D1TMQY,FLUX.2 klein,results/FLUX2_Klein/images/P008.png,4,4,3,4,User reviewed
+P009,B06X1CCRTF,Z-Image-Turbo,results/Z_Image_Turbo/images/P009.png,5,5,5,5,User reviewed
+P009,B06X1CCRTF,FLUX.2 klein,results/FLUX2_Klein/images/P009.png,5,5,5,5,User reviewed
+P010,B07TGD4BKR,Z-Image-Turbo,results/Z_Image_Turbo/images/P010.png,4,4,3,4,User reviewed
+P010,B07TGD4BKR,FLUX.2 klein,results/FLUX2_Klein/images/P010.png,4,4,3,4,User reviewed
+P011,B07S95P9P1,Z-Image-Turbo,results/Z_Image_Turbo/images/P011.png,5,5,4,5,User reviewed
+P011,B07S95P9P1,FLUX.2 klein,results/FLUX2_Klein/images/P011.png,5,5,4,5,User reviewed
+P012,B07D7WJQQ3,Z-Image-Turbo,results/Z_Image_Turbo/images/P012.png,2,4,2,1,User reviewed
+P012,B07D7WJQQ3,FLUX.2 klein,results/FLUX2_Klein/images/P012.png,2,4,2,1,User reviewed
+P013,B07PW9VHTJ,Z-Image-Turbo,results/Z_Image_Turbo/images/P013.png,5,5,5,5,User reviewed
+P013,B07PW9VHTJ,FLUX.2 klein,results/FLUX2_Klein/images/P013.png,4,5,4,4,User reviewed
+P014,B07NZXG17S,Z-Image-Turbo,results/Z_Image_Turbo/images/P014.png,2,4,2,1,User reviewed
+P014,B07NZXG17S,FLUX.2 klein,results/FLUX2_Klein/images/P014.png,2,4,2,1,User reviewed
+P015,B07HK3PTPX,Z-Image-Turbo,results/Z_Image_Turbo/images/P015.png,2,4,3,3,User reviewed
+P015,B07HK3PTPX,FLUX.2 klein,results/FLUX2_Klein/images/P015.png,5,5,5,5,User reviewed
+P016,B07QRQ3PY2,Z-Image-Turbo,results/Z_Image_Turbo/images/P016.png,4,4,4,4,User reviewed
+P016,B07QRQ3PY2,FLUX.2 klein,results/FLUX2_Klein/images/P016.png,5,5,5,5,User reviewed
+P017,B07GFXFM9V,Z-Image-Turbo,results/Z_Image_Turbo/images/P017.png,2,4,2,1,User reviewed
+P017,B07GFXFM9V,FLUX.2 klein,results/FLUX2_Klein/images/P017.png,2,4,2,1,User reviewed
+P018,B07QDNDK9Q,Z-Image-Turbo,results/Z_Image_Turbo/images/P018.png,5,5,5,5,User reviewed
+P018,B07QDNDK9Q,FLUX.2 klein,results/FLUX2_Klein/images/P018.png,5,5,5,5,User reviewed
+P019,B07T3G776L,Z-Image-Turbo,results/Z_Image_Turbo/images/P019.png,3,4,3,3,User reviewed
+P019,B07T3G776L,FLUX.2 klein,results/FLUX2_Klein/images/P019.png,1,4,1,1,User reviewed
+P020,B07R17XRJN,Z-Image-Turbo,results/Z_Image_Turbo/images/P020.png,5,4,4,4,User reviewed
+P020,B07R17XRJN,FLUX.2 klein,results/FLUX2_Klein/images/P020.png,3,4,3,3,User reviewed
+P021,B00L21KJ20,Z-Image-Turbo,results/Z_Image_Turbo/images/P021.png,3,4,3,3,User reviewed
+P021,B00L21KJ20,FLUX.2 klein,results/FLUX2_Klein/images/P021.png,5,3,4,4,User reviewed
+P022,B01NBH83SI,Z-Image-Turbo,results/Z_Image_Turbo/images/P022.png,4,5,4,4,User reviewed
+P022,B01NBH83SI,FLUX.2 klein,results/FLUX2_Klein/images/P022.png,2,4,2,2,User reviewed
+P023,B01NCI5MGI,Z-Image-Turbo,results/Z_Image_Turbo/images/P023.png,5,5,4,5,User reviewed
+P023,B01NCI5MGI,FLUX.2 klein,results/FLUX2_Klein/images/P023.png,2,4,2,2,User reviewed
+P024,B07GF12Z9J,Z-Image-Turbo,results/Z_Image_Turbo/images/P024.png,5,5,4,5,User reviewed
+P024,B07GF12Z9J,FLUX.2 klein,results/FLUX2_Klein/images/P024.png,5,5,4,5,User reviewed
+P025,B07P488YBD,Z-Image-Turbo,results/Z_Image_Turbo/images/P025.png,2,4,2,1,User reviewed
+P025,B07P488YBD,FLUX.2 klein,results/FLUX2_Klein/images/P025.png,1,4,1,1,User reviewed
+P026,B07PJSZTJT,Z-Image-Turbo,results/Z_Image_Turbo/images/P026.png,2,4,2,2,User reviewed
+P026,B07PJSZTJT,FLUX.2 klein,results/FLUX2_Klein/images/P026.png,2,4,2,2,User reviewed
+P027,B07T3G7RV3,Z-Image-Turbo,results/Z_Image_Turbo/images/P027.png,5,4,5,5,User reviewed
+P027,B07T3G7RV3,FLUX.2 klein,results/FLUX2_Klein/images/P027.png,1,4,1,1,User reviewed
+P028,B009CNHZKO,Z-Image-Turbo,results/Z_Image_Turbo/images/P028.png,3,5,3,3,User reviewed
+P028,B009CNHZKO,FLUX.2 klein,results/FLUX2_Klein/images/P028.png,5,5,4,4,User reviewed
+P029,B07JCVWRG1,Z-Image-Turbo,results/Z_Image_Turbo/images/P029.png,3,5,3,3,User reviewed
+P029,B07JCVWRG1,FLUX.2 klein,results/FLUX2_Klein/images/P029.png,3,5,3,3,User reviewed
+P030,B01K4W21JQ,Z-Image-Turbo,results/Z_Image_Turbo/images/P030.png,2,4,2,2,User reviewed
+P030,B01K4W21JQ,FLUX.2 klein,results/FLUX2_Klein/images/P030.png,3,4,3,3,User reviewed

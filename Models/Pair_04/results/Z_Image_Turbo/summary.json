@@ -1,0 +1,16 @@
+{
+  "model": "Z-Image-Turbo-SDNQ-uint4-svd-r32",
+  "checkpoint": "C:\\Users\\royay\\OneDrive\\Desktop\\COMP8410\\Assignment 1\\COMP8410_A1_49128299\\Models\\Pair_04\\models\\Z-Image-Turbo",
+  "num_prompts": 30,
+  "successful_images": 30,
+  "failed_images": 0,
+  "mean_generation_seconds": 10.966583546667243,
+  "median_generation_seconds": 10.677873850014294,
+  "height": 512,
+  "width": 512,
+  "steps": 9,
+  "guidance_scale": 0.0,
+  "base_seed": 42,
+  "pytorch_version": "2.6.0+cu124",
+  "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU"
+}
